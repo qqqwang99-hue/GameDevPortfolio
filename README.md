@@ -4,7 +4,7 @@
 
 ### OOP ChipmunkGame
 
-![ChipmunkGame2027](images/chipmunkGame.png)
+![ChipmunkGame2027](https://github.com/qqqwang99-hue/gamedevportfolio2027/blob/main/images/chipmunkGame.png)
 
 [Link To Source Code](https://github.com/qqqwang99-hue/gamedevportfolio2027/tree/main/src/ChipmunkGame)
 
