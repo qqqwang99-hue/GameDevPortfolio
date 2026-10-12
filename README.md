@@ -4,6 +4,6 @@
 
 ### OOP ChipmunkGame
 
-![ChipmunkGame2027](chipmunkGame.png)
+![ChipmunkGame2027](images/chipmunkGame.png)
 
 [LinkToSourceCode]()
