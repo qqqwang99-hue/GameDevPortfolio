@@ -9,19 +9,20 @@
 [Link To Source Code](https://github.com/qqqwang99-hue/gamedevportfolio2027/tree/main/src/ChipmunkGame)
 
 ## Game Overview
-[Explain the player's goal, main challenge,
-and how the player succeeds or loses.]
+The main goal of the game is to destroy snakes before they move past the bottom of the screen or overlap with you while getting power ups to increase health, missile speed, and turret count.  
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
-Main sketch and project folder: [Names]
-Required libraries, if any: [List or write None]
+Processing version: 4.0.1
+Main sketch and project folder: ChipmunkGame
+Required libraries, if any: Sound (from Processing) and GifAnimator
 
 [Explain how to open and run the project.]
 
 ## Controls
-[List each key or mouse action and what it does.]
+Left mouse click shoots projectiles.
+WASD keys for up, left, down, right movement of the player.
+Any key to start the game. 
 
 ## Required Foundation — 2 Points
 
