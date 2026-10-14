@@ -27,9 +27,9 @@ Any key to start the game.
 ## Required Foundation — 2 Points
 
 ### Three Power-Up Types
-1. [Name] — [Effect, duration if relevant, and status]
-2. [Name] — [Effect, duration if relevant, and status]
-3. [Name] — [Effect, duration if relevant, and status]
+1. Health(h) — Adds 1 health to the player's health [Effect, duration if relevant, and status]
+2. Speed(s) — Increases the speed of the missiles fired by 10 frames[Effect, duration if relevant, and status]
+3. Turret(t) — Gives the player one more turret that also shoots missiles on left mouse click[Effect, duration if relevant, and status]
 
 ### Levels
 [Explain what triggers progression and what changes
@@ -37,13 +37,11 @@ between levels. State the current implementation status.]
 
 ## My Chosen Additional Systems
 Choose at least two:
-- Firing enemies
-- Boss
 - Game statistics
 - Game-over screen with saved results
 
 My choices:
-1. [System — intended behavior and current status]
+1. Game statistics - Keep track of health, score, how many snakes currently on screen, and how many snakes have passed beyond the bottom of the screen [System — intended behavior and current status]
 2. [System — intended behavior and current status]
 
 ## Testing
