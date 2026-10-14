@@ -45,7 +45,9 @@ My choices:
 
 ## Testing
 Test actions: Lose the game to make the game over screen appear
+
 Expected result: Shows white text on top of the background saying GAME OVER and the high score and current score as well as the option to play again.
+
 Actual result: Shows white text on top of the background saying GAME OVER and the high score and current score as well as the option to play again.
 
 ## Project Files and Assets
