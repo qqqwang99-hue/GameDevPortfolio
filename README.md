@@ -17,7 +17,7 @@ Processing version: 4.0.1
 Main sketch and project folder: ChipmunkGame
 Required libraries, if any: Sound (from Processing) and GifAnimator
 
-[Explain how to open and run the project.]
+Click the Link to Source Code to open the game.
 
 ## Controls
 Left mouse click shoots projectiles.
@@ -27,9 +27,9 @@ Any key to start the game.
 ## Required Foundation — 2 Points
 
 ### Three Power-Up Types
-1. Health(h) — Adds 1 health to the player's health [Effect, duration if relevant, and status]
-2. Speed(s) — Increases the speed of the missiles fired by 10 frames[Effect, duration if relevant, and status]
-3. Turret(t) — Gives the player one more turret that also shoots missiles on left mouse click[Effect, duration if relevant, and status]
+1. Health(h) — Adds 1 health to the player's health
+2. Speed(s) — Increases the speed of the missiles fired by 10 frames
+3. Turret(t) — Gives the player one more turret that also shoots missiles on left mouse click
 
 ### Levels
 [Explain what triggers progression and what changes
@@ -41,8 +41,8 @@ Choose at least two:
 - Game-over screen with saved results
 
 My choices:
-1. Game statistics - Keep track of health, score, how many snakes currently on screen, and how many snakes have passed beyond the bottom of the screen [System — intended behavior and current status]
-2. [System — intended behavior and current status]
+1. Game statistics - Keep track of health, score, how many snakes currently on screen, and how many snakes have passed beyond the bottom of the screen 
+2. Game over screen with saved results - Final score is shown on the game over screen, the high score over all games played, and an option to play again or the exit. 
 
 ## Testing
 Test actions:
@@ -60,4 +60,4 @@ Asset credits:
 [Describe unfinished behavior or known bugs honestly.]
 
 ## Next Development Task
-[Name one specific behavior you will build or fix next.]
+Implementing levels
