@@ -32,8 +32,7 @@ Any key to start the game.
 3. Turret(t) — Gives the player one more turret that also shoots missiles on left mouse click
 
 ### Levels
-[Explain what triggers progression and what changes
-between levels. State the current implementation status.]
+Levels are not currently in place but gaining powerups will allow the player to shoot faster and with more turrets. 
 
 ## My Chosen Additional Systems
 Choose at least two:
@@ -45,19 +44,19 @@ My choices:
 2. Game over screen with saved results - Final score is shown on the game over screen, the high score over all games played, and an option to play again or the exit. 
 
 ## Testing
-Test actions:
-Expected result:
-Actual result:
+Test actions: Lose the game to make the game over screen appear
+Expected result: Shows white text on top of the background saying GAME OVER and the high score and current score as well as the option to play again.
+Actual result: Shows white text on top of the background saying GAME OVER and the high score and current score as well as the option to play again.
 
 ## Project Files and Assets
-[Identify the main sketch, other tabs,
-and image/audio folders.]
+ChipmunkGame.pde, Chipmunk.pde, Boss.pde, PowerUp.pde, Projectile.pde, Snake.pde, Timer.pde, 
+backgroundmusic.mp3, explosion.mp3, gameover.mp3, snakedie.mp3, highscore.txt
 
 Asset credits:
-[Credit outside assets and identify assets you created.]
+player.png, missile.png, Start_screen.png, powerup.png, background.png
 
 ## Known Issues
-[Describe unfinished behavior or known bugs honestly.]
+The boss currently doesn't do anything and will not show up on the screen. 
 
 ## Next Development Task
-Implementing levels
+Implementing levels and the boss
